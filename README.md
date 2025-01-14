@@ -1,4 +1,4 @@
-📢 Nominate ([@Chris](https://github.com/Henson-Kudi/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
+📢 Nominate ([@Henson](https://github.com/Henson-Kudi/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 ---
 
@@ -13,9 +13,9 @@ Welcome to my page; on my Github, you can find:
 
 #### 📧 You can contact me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/henson-kudi-amah-64736b190)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henson-kudi-amah-64736b190)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/+971588629213)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+971588629213)
 
 _I am open to new opportunities._
 
