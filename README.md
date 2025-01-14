@@ -27,9 +27,9 @@ _I am open to new opportunities._
 
 #### 📜 Github stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henson-Kudi&count_private=true&show_icons=true&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henson-Kudi&count_private=true&show_icons=true&theme=light&include_all_commits=true&show_owner=true)
 
-![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg?username=Henson-Kudi)
+![GITHUB Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henson-Kudi)
 
 ---
 
