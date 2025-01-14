@@ -36,7 +36,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 #### 🔎 You can find me on:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HensonAmah)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/henson-kudi-amah-64736b190)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henson-kudi-amah-64736b190)
 <hr/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Henson-Kudi.Henson-Kudi" />
